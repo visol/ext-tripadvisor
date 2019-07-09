@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2016-03-17T00:00:00Z" product-name="tripadvisor">
+        <header/>
+        <body>
+            <trans-unit id="plugin.extension_name">
+                <source>Trip Advisor</source>
+            </trans-unit>
+            <trans-unit id="IconPlusBubbleRating">
+                <source>Icon + bubble rating</source>
+            </trans-unit>
+            <trans-unit id="ReviewSnippets">
+                <source>Review Snippets</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

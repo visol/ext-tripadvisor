@@ -1,0 +1,16 @@
+{
+    "name": "sinso/tripadvisor",
+    "description": "Tripadvisor widget integration",
+    "type": "typo3-cms-extension",
+    "version": "1.0.1",
+    "homepage": "https://github.com/sinso/ext-tripadvisor",
+    "license": "GPL-2.0+",
+    "preferred-install": "dist",
+    "support": {
+        "issues": "https://github.com/sinso/ext-tripadvisor/issues"
+    },
+    "suggest": {
+    },
+    "require-dev": {
+    }
+}
